@@ -1,0 +1,147 @@
+<style>
+		a{
+			color:black;
+		}
+		.btn{
+			border:1px solid red;
+			border-radius: 40px;
+
+		}
+		ul{
+			display: inline-block;
+			float: center;
+		    margin-right:  60px;
+		  }
+
+		a{
+			margin-right: 20px;
+		}
+		.row{
+			position: relative;
+			text-align: center;
+			border:grey;
+		}
+		.centered{
+	 		position: absolute;
+	 		top: 35%;
+	 		left: 50%;
+	 		transform: translate(-50%,-50%);
+		}
+		.H{
+			margin-right: 3em;
+
+		}
+		.col-lg-8{
+			
+			height: 200px;
+		}
+		.row{
+			margin-left: 0px;
+
+		}
+		.container{
+			margin-left: 15px;
+}
+.h4{
+	background-color: red;
+	text-align: center;
+	color:white;
+
+
+}
+.card{
+	position: absolute;
+	top:20.8em;
+	left:51.6em;
+	transform: translate(-50%,-50%);
+}
+small{
+	margin-right: 88.1%;
+	color:black;
+}
+.Sm{
+	margin-left: 20%;
+	margin-bottom: 20%;
+	background-color: red;
+}
+.p{
+	margin-left: 55.5px;
+}
+.C{
+	margin-right:90px;
+}
+.B{
+	margin-right: 47.0px;
+}
+.Heading{
+	text-align: left;
+}
+.Buton{
+	background-color: black;
+	color:white;
+	padding: 10px;
+	margin-right: 47rem;
+	border-color: black;
+	margin-bottom: 15px;
+	border-radius: 5px;
+	width: 10rem;
+
+}
+.UL{
+	list-style:none;
+	text-align: left;
+	margin-right: 17em;
+	margin-top: 15px;
+	line-height: 2.8em;
+}
+.you{
+	background-color: red;
+	border-color: red;
+	box-shadow: 5px;
+	color:white;
+	text-align: left;
+	padding: 25px;
+}
+.tags{
+	text-align: left;
+}
+.Tags{
+	background-color: white;
+	color:black;
+	border:1px solid grey;
+	padding: 5px;
+	margin: 3px;
+	font-family: sans-serif;
+	border-radius: 5px;
+
+}
+
+.button{
+	border-color: grey;
+	border-radius: 0px;
+}
+.bus{
+	text-align: left;
+}
+.byte{
+	margin-top: 40px;
+	border-color: white;
+}
+.H5{
+color: white;
+}
+.list{
+	list-style: none;
+}
+.anker{
+	color: white;
+}
+.hide{
+	background-color: red;
+}
+
+.fab{
+	color:white;
+}
+
+</style>
